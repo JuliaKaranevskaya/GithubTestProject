@@ -12,7 +12,10 @@ class FirstBranchViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("1")
+        print("this print from first branch")
     }
+    
+    
 
 
 }
